@@ -1,20 +1,23 @@
 <div align="center">
 
-```
+<pre>
 ██████╗ ██████╗ ██╗   ██╗████████╗██╗   ██╗███████╗
 ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██║   ██║██╔════╝
 ██████╔╝██████╔╝██║   ██║   ██║   ██║   ██║███████╗
 ██╔══██╗██╔══██╗██║   ██║   ██║   ██║   ██║╚════██║
 ██████╔╝██║  ██║╚██████╔╝   ██║   ╚██████╔╝███████║
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝
-```
+</pre>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1200&color=0a2540&center=true&vCenter=true&width=860&lines=%5BWARN+%5D+Do+not+underestimate+the+weight+of+this+name.;BRUTUS+(n.)+%E2%80%94+Latin.;Meaning%3A+heavy%2C+substantial%2C+grounded.;The+name+of+the+man+who+ended+the+monarchy...;...and+founded+the+Roman+Republic+in+509+BC.;A+name+that+has+meant+%22builder%22+for+2%2C500+years.;%5BINTEL%5D+BRUTUS%3A+Latin+origin.+Means+%22the+heavy+one%22.+The+immovable.;%5BHIST+%5D+509+BC%3A+Lucius+Junius+Brutus+builds+the+Roman+Republic.;%5BNOW++%5D+Pipelines.+AI+agents.+ML+models.+Distributed+systems.+Grounded+in+craft." />
 
 </div>
 
 ---
+
 <div align="center">
+
+### ◈ &nbsp; B · R · U · T · U · S &nbsp; ◈
 
 | Letter | Meaning | In Practice |
 |:---:|---|---|
